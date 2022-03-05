@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this app you can search any Hollywood movie.
+This app will not redirect you to any website. 
+It is just to see the available movie through search bar
 
 ## Available Scripts
 

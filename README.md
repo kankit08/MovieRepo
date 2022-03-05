@@ -1,7 +1,7 @@
 # Introduction
 
-In this app you can search any Hollywood movie.
-This app will not redirect you to any website. 
+In this app you can search any Hollywood movie. \
+This app will not redirect you to any website. \
 It is just to see the available movie through search bar
 
 ## Available Scripts
